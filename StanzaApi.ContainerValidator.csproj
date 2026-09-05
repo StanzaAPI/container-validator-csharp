@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>StanzaApi.ContainerValidator</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Stanza</Authors>
+    <Description>Official zero-dependency, high-speed C# .NET client for ISO 6346 Container & Chassis Check-Digit Validator</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://stanzaapi.com/tools/container-validator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/stanzaapi/container-validator-csharp</RepositoryUrl>
+    <PackageTags>iso-6346;container;shipping;check-digit;chassis;intermodal;freight;logistics;bic-code</PackageTags>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+</Project>
